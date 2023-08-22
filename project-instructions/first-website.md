@@ -248,7 +248,7 @@ We're going to create `<div>` tags to group our content together. What is the di
 
 - **3b.** **CODE:** Now, let's add our site navigation menu and the main content of our site. Inside the new div you created, add a set of opening and closing tags for `<nav>` and `<main>`.
 
-  > **Hint: `<nav>` and `<main>`will both be nested sibling elements here!**
+  > **Hint: `nav>` and `<main>`will both be nested sibling elements here!**
 
     <details> 
     <summary> Click to see what your code should look like after completing these steps </summary> 
